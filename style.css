@@ -1,0 +1,43 @@
+#real {
+  background-color: blue;
+}
+table,
+tr,
+td,
+th {
+  border: 1px solid black;
+  height: 50px;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(37, 72, 0);
+}
+
+#navbar {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+body {
+  background-image: url("https://img.freepik.com/premium-vector/white-elegant-texture-screensaver_23-2148421855.jpg?w=360");
+}
+
+p {
+  font-size: 30px;
+}
